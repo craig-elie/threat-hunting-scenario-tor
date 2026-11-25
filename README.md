@@ -53,7 +53,7 @@ DeviceProcessEvents
 | where ProcessCommandLine contains "tor"  
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b07ac4b4-9cb3-4834-8fac-9f5f29709d78">
+<img width="1212" alt="image" src="https://github.com/craig-elie/threat-hunting-scenario-tor/blob/main/DeviceProcessEventsQueryResults.png">
 
 ---
 

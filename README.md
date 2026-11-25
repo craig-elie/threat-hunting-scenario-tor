@@ -119,7 +119,7 @@ DeviceNetworkEvents
 ### 4. Network Connection - TOR Network
 
 - **Timestamp:** `2026-11-24T22:44:52.1725548Z`
-- **Event:** A network connection to IP `176.198.159.33` on port `9001` by user "techadmin" was established using `tor.exe`, confirming TOR browser network activity.
+- **Event:** A network connection to IP `54.36.205.38` on port `9001` by user "techadmin" was established using `tor.exe`, confirming TOR browser network activity.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
 - **File Path:** `c:\users\techadmin\desktop\tor browser\browser\torbrowser\tor\tor.exe`
@@ -127,17 +127,17 @@ DeviceNetworkEvents
 ### 5. Additional Network Connections - TOR Browser Activity
 
 - **Timestamps:**
-  - `2024-11-08T22:18:08Z` - Connected to `194.164.169.85` on port `443`.
-  - `2024-11-08T22:18:16Z` - Local connection to `127.0.0.1` on port `9150`.
+  - `2026-11-24T22:44:52.0720397Z` - Connected to `64.65.62.252` on port `443`.
+  - `2026-11-24T22:44:17.7396497Z` - Local connection to `127.0.0.1` on port `9150`.
 - **Event:** Additional TOR network connections were established, indicating ongoing activity by user "techadmin" through the TOR browser.
 - **Action:** Multiple successful connections detected.
 
 ### 6. File Creation - TOR Shopping List
 
-- **Timestamp:** `2024-11-08T22:27:19.7259964Z`
-- **Event:** The user "techadmin" created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
+- **Timestamp:** `2026-11-24T22:43:14.1324939Z`
+- **Event:** The user "techadmin" created a file named `tor.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
 - **Action:** File creation detected.
-- **File Path:** `C:\Users\techadmin\Desktop\tor-shopping-list.txt`
+- **File Path:** `C:\Users\techadmin\Desktop\tor.txt`
 
 ---
 
